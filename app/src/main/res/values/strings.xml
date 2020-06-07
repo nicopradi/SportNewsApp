@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">SportsNewsApp</string>
+
+    <!-- FRAGMENT PREFERENCE -->
+    <string name="preference_favorite_sport_key">favorite_sport</string>
+    <string name="preference_favorite_sport_default">Soccer</string>
+    <string name="preference_favorite_sport_title">Favorite Sport</string>
+
+    <!-- EMPTY SCREEN -->
+    <string name="no_internet">No internet connection</string>
+    <string name="no_content">No news for your favorite sport...</string>
+
+    <!-- TOAST -->
+    <string name="toast_favorite_sport">Your favorite sport is: </string>
+
+    <!-- MENU ITEM -->
+    <string name="menu_item_settings">Settings</string>
+
+    <!-- LIST ITEM -->
+    <string name="author">Author:</string>
+
+    <!-- URL QUERY -->
+    <string name="query_api_key" translatable="false">36419858-604e-4306-a7e4-7f28ca908524</string>
+    <string name="query_section" translatable="false">sport</string>
+    <string name="query_page_size" translatable="false">20</string>
+    <string name="query_show_fields" translatable="false">thumbnail,headline</string>
+    <string name="query_order_by" translatable="false">newest</string>
+    <string name="query_show_tags" translatable="false">contributor</string>
+
+</resources>

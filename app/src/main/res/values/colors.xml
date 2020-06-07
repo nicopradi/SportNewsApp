@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <!-- Background color for the Article title -->
+    <color name="list_item_title">#eceff1</color>
+
+    <!-- Author text -->
+    <color name="list_item_author">#e57373</color>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- android:key = The key to store the Preference value.
+     So that we have a reference to retrieve this value
+         android:selectAllOnFocus = Select all the text when you have focus-->
+    <EditTextPreference
+        android:id="@+id/favorite_sport_preference"
+        android:defaultValue="@string/preference_favorite_sport_default"
+        android:inputType="textCapWords"
+        android:key="@string/preference_favorite_sport_key"
+        android:selectAllOnFocus="true"
+        android:title="@string/preference_favorite_sport_title" />
+
+</PreferenceScreen>
